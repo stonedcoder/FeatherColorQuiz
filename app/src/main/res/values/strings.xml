@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Feather Color Quiz</string>
+    <string name="tap_to_input_your_name">Tap to input your name</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="grey">Grey</string>
+    <string name="purple">Purple</string>
+    <string name="red_bird">Red bird</string>
+    <string name="mark_up">Mark Up</string>
+    <string name="yellow">Yellow</string>
+    <string name="orange">Orange</string>
+    <string name="blue">Blue</string>
+    <string name="brown">Brown</string>
+    <string name="blue_bird">Blue bird</string>
+    <string name="colorful_bird">Colorful bird</string>
+    <string name="view_score">View score</string>
+    <string name="check_all_that_applies">Check all that applies</string>
+    <string name="pick_the_most_obvious">Pick the most obvious</string>
+</resources>
